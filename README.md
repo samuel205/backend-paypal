@@ -17,7 +17,7 @@ Aplicación para el consumo del sdk de paypal.
       ```
    2. Luego creamos el entorno virutal
    ```bash
-    python -m pip virtualenv venv
+    python -m virtualenv venv
       ```
    3. Activar entrono virtual
    ```bash

@@ -7,7 +7,7 @@ Aplicación para el consumo del sdk de paypal.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/samuel205/name_repositorie.git
+   https://github.com/samuel205/backend-paypal.git
    cd tu-proyecto
    
 2. Crar entonor virutal
@@ -32,7 +32,7 @@ Aplicación para el consumo del sdk de paypal.
    pip install -r req.txt
 3. Ejecuta
    ```bash
-   npm run dev 
+   python.exe -m uvicorn main:app --reload --env-file=.env  
    ```
 Si estás viendo esto, probablemente ya hayas hecho este paso. ¡Felicitaciones!
 
